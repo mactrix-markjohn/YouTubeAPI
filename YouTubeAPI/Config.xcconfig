@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  YouTubeAPI
+//
+//  Created by mac on 03/10/2024.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_KEY = AIzaSyBlHA6fgeAVgcmu_g2vkTB9LdlCSCYI5rM
